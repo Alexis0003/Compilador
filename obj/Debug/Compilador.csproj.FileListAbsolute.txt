@@ -1,0 +1,7 @@
+C:\Users\alexi\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\alexi\source\repos\Compilador\Compilador\bin\Debug\Compilador.exe
+C:\Users\alexi\source\repos\Compilador\Compilador\bin\Debug\Compilador.pdb
+C:\Users\alexi\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Compilador\Compilador\obj\Debug\Compilador.exe
+C:\Users\alexi\source\repos\Compilador\Compilador\obj\Debug\Compilador.pdb
